@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lead</fullName>
+    <types>
+        <members>F_Lead</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>FieloPLT__Tracker__c.Lead__c</members>
+        <members>FieloPLT__Transaction__c.Lead__c</members>
+        <members>Lead.Member__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>LeadsFromSpecificIndustrys</members>
+        <name>StaticResource</name>
+    </types>
+    <version>46.0</version>
+</Package>
