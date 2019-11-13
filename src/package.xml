@@ -12,7 +12,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>LeadsFromSpecificIndustrys</members>
+        <members>LeadsFromSpecificIndustry</members>
         <name>StaticResource</name>
     </types>
     <version>46.0</version>
